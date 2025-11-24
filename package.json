@@ -1,0 +1,18 @@
+{
+  "name": "time-latest-stories-api-static",
+  "version": "1.0.0",
+  "description": "Node.js API that returns the 6 Time.com stories from the assignment example JSON.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "time.com",
+    "latest stories",
+    "static response"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
